@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UserCeibaList</string>
+    <string name="toolbar_title">Prueba de ingreso</string>
+    <string name="find_user">Buscar usuario</string>
+    <string name="see_posts">ver publicaciones</string>
+    <string name="error_post_message">Error este usuario no tiene posts</string>
+    <string name="posts">Posts</string>
+</resources>
